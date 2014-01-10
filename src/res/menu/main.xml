@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="fr.prodev73.maison.MainActivity" >
+
+    <group>
+        <item
+            android:id="@+id/plan_rdc"
+            android:orderInCategory="100"
+            android:showAsAction="always|collapseActionView"
+            android:title="@string/plan_rdc"/>
+        <item
+            android:id="@+id/plan_etage"
+            android:orderInCategory="110"
+            android:showAsAction="always|collapseActionView"
+            android:title="@string/plan_etage"/>
+    </group>
+
+</menu>

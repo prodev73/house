@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Plan</string>
+    <string name="title_activity_main">Plan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="plan_rdc">Rez de chausse</string>
+    <string name="plan_etage">Etage</string>
+
+</resources>
